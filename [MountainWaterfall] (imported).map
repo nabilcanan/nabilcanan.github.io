@@ -7,3 +7,11 @@
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:Nabil Canan -->
 </map>
+
+
+    <img src="MountainWaterfall.jpg" alt= "MountainWaterfall" width="1000" height="800" 
+       usemap="#Mountain"/> 
+      
+      <map name="#Mountain">
+        <area shape="rect" coords= "170, 40, 190, 60" alt="bird"  href="bird.htm" href="bird.mp3"
+      </map>>
